@@ -1,5 +1,2 @@
-# cs50-Final-Project
-cs50 final project, certificate
+![Alt Text]([CS50P.pdf](https://github.com/DkCodeProjct/cs50-Final-Project/files/14497121/CS50P.pdf))
 
-
-[Uploading CS50P.pdf…]()
